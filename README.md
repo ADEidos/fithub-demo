@@ -1,2 +1,2 @@
-# fithub-demo
+# github-demo
 A simple demo repositiry
